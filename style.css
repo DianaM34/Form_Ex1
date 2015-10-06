@@ -1,0 +1,15 @@
+body {
+	direction: rtl;
+	background-image: url("https://thenypost.files.wordpress.com/2014/09/money_pile.jpg");
+}
+input{
+	margin-right: 50px;
+	text-align: right;
+	
+}
+h1{
+	color: green;
+	font-family: fantasy;
+	text-align: center;
+}
+
